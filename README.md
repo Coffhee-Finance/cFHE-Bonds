@@ -1,5 +1,5 @@
 # cFHE-Bonds
-Confidential Bonds
+Confidential Bonds on Arbitrum
 
 Bond Token: 0x64a03e181e016DF207DdF39D9bd616849C5b0085
 
