@@ -1,4 +1,5 @@
-// Erc3475Token.js
+// Erc3475Token.js 
+// This is an integration for Coinbase Wallet
 import { CdpClient } from '@coinbase/cdp-sdk';
 import { ethers } from 'ethers';
 import dotenv from 'dotenv';
@@ -43,5 +44,6 @@ const Erc3475Token = async () => {
     console.error('Error adding ERC-3475 token:', error);
   }
 };
+
 
 Erc3475Token();
